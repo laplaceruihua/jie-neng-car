@@ -1,0 +1,15 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 7.5\arm\bin\armproc.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 7.5\arm\bin\armpemicro.dll" 
+
+"F:\KEAZ128\LQ_KEA128_IAR\LQ_KEAZ128_ADC_OLED\Debug\Exe\template.out" 
+
+--plugin "C:\Program Files\IAR Systems\Embedded Workbench 7.5\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files\IAR Systems\Embedded Workbench 7.5\arm\config\debugger\NXP\KExx.dmac" 
+
+--flash_loader "C:\Program Files\IAR Systems\Embedded Workbench 7.5\arm\config\flashloader\NXP\FlashKE04Z128_4.board" 
+
+
+
+
